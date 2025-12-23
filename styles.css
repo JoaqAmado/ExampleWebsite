@@ -139,3 +139,29 @@ h4{
     text-align: right;
     margin: 10px;
 }
+
+.slide4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10%;
+}
+
+.action{
+    display: flex;
+    background-color: #3882F6;
+    padding: 50px 100px;
+    border-radius: 10px;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.action>div>h3{
+    color: #F9FAF8;
+    font-style: normal;
+}
+
+.action>button{
+    border: 2.5px solid #F9FAF8;
+}
