@@ -165,3 +165,12 @@ h4{
 .action>button{
     border: 2.5px solid #F9FAF8;
 }
+
+.footer{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #1F2937;
+    height: 100px;
+}
